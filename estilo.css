@@ -1,4 +1,4 @@
- body { padding: 0; margin: 0; }
+body { padding: 0; margin: 0; }
 
 header{
   align-items:center;
@@ -10,11 +10,15 @@ header{
 footer{background-color: #222;}
 
 p{line-height: 1.1rem;color: #939393;}
+
 h4{font-weight: bolder;color: #5a19fe;}
+
+/* estilos personalizados */
 
 .bolder{font-weight: bolder;}
 
 .btn-ema{background-color:#5a19fe;color: #fafafa;margin-bottom: 15px;}
+
 .btn-ema:hover {background-color:#222222;}
 
 .btn:first-child:hover, :not(.btn-check) + .btn:hover {
